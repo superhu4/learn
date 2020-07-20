@@ -6,7 +6,13 @@ process:
 	twig: true
 ---
 
-{{ printfriendly(page.route) }}
+{% set hour = now | date("G") %}
+{% if hour >= 9 and hour < 17 %}
+    <p>Time for cookies!</p>
+{% else %}
+    <p>Time to bake more cookies!</p>
+{% endif %}
+
 
 Lorem markdownum murmure fidissime suumque. Nivea agris, duarum longaeque Ide
 rugis Bacchum patria tuus dea, sum Thyneius liquor, undique. **Nimium** nostri
