@@ -5,14 +5,14 @@ taxonomy:
 process:
 	twig: true
 ---
+{{ printfriendly(page.route) }}
 
 {% set hour = now | date("G") %}
 {% if hour >= 9 and hour < 17 %}
-    <p>Time for cookies!</p>
+    Time for cookies!
 {% else %}
-    <p>Time to bake more cookies!</p>
+    Time to bake more cookies!
 {% endif %}
-
 
 Lorem markdownum murmure fidissime suumque. Nivea agris, duarum longaeque Ide
 rugis Bacchum patria tuus dea, sum Thyneius liquor, undique. **Nimium** nostri
