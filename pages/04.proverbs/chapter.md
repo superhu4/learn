@@ -1,12 +1,12 @@
 ---
-title: Intermediate
+title: Proverbs - August 2020
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Chapter 2
+### Proverbs
 
-# Intermediate
+# This is a header
 
 Delve deeper into more **complex** topics
