@@ -7,6 +7,4 @@ child_type: docs
 
 ### Proverbs
 
-# This is a header
-
 Delve deeper into more **complex** topics
