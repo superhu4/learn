@@ -4,6 +4,9 @@ taxonomy:
     category: docs
 ---
 
+>>> Put iPhones in Airplane and Do Not Disturb modes!
+
+
 
 test123 
 
