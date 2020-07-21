@@ -1,5 +1,5 @@
 ---
-title: Basics
+title: Livestream
 taxonomy:
     category: docs
 child_type: docs
@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 1
 
-# Basics
+# Livestream
 
-Discover the **basic** principles
+Overview of our livestream set-up.
