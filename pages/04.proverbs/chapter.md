@@ -1,10 +1,10 @@
 ---
-title: Proverbs - August 2020
+title: Discipleship
 taxonomy:
     category: docs
 child_type: docs
 ---
 
-### Proverbs
+### Discipleship
 
-Delve deeper into more **complex** topics
+Get equipped with basic discipling tools.

@@ -9,10 +9,3 @@ taxonomy:
 
 >>>> Put iPhones in Airplane and Do Not Disturb modes!
 
-- This is a test
-
-![](La%20Clairvoyance.jpg)
-
-Thank you
-
-This is a test.
