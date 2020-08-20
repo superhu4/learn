@@ -5,8 +5,6 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 1
+### Technology 
 
-# Technology
-
-Overview of our livestream and audio set-up.
+Overview of our livestream, audio, and slides set-up.
