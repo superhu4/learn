@@ -14,3 +14,5 @@ taxonomy:
 ![](La%20Clairvoyance.jpg)
 
 Thank you
+
+This is a test.
