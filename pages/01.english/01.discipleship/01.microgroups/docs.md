@@ -13,6 +13,7 @@ taxonomy:
 - [Group Starter Guide](D-GroupStarterGuide_2020-1-A.pdf)
 
 > Direct links to podcast episodes mentioned:
+
 https://replicate.org/d-group-starter-guide-week-1/
 https://replicate.org/d-group-starter-guide-week-2/
 https://replicate.org/d-group-starter-guide-week-3/
