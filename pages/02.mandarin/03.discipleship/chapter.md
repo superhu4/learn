@@ -2,11 +2,8 @@
 title: Discipleship
 taxonomy:
     category: docs
-    tag: ''
 ---
 
-### Discipleship Material
-
-# Chapter Title
+# Discipleship
 
 Chapter description.

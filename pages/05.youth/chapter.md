@@ -1,5 +1,5 @@
 ---
-title: English
+title: Youth Group
 taxonomy:
     category: docs
 child_type: docs

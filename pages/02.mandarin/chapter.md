@@ -5,7 +5,7 @@ taxonomy:
 child_type: docs
 ---
 
-### Mandarin
+# Mandarin
 
 Resources for Mandarin ministry
 

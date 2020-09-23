@@ -5,7 +5,7 @@ taxonomy:
 child_type: docs
 ---
 
-### Evangelism
+# Evangelism
 
 Information on evangelism classes.
 
