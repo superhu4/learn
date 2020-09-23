@@ -2,8 +2,8 @@
 title: Files
 media_order: 'Crazy Busy.533389.StudyGuide.WithCover.pdf,preaching christ from the old testament - sinclair ferguson - christ_paper.pdf'
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
 ---
 
 - [Crazy Busy.533389.StudyGuide.WithCover.pdf](Crazy%20Busy.533389.StudyGuide.WithCover.pdf)
