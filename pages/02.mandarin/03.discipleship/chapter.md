@@ -5,7 +5,7 @@ taxonomy:
     tag: ''
 ---
 
-### Chapter Number
+### Discipleship Material
 
 # Chapter Title
 
