@@ -1,8 +1,8 @@
 ---
 title: Discipleship
 taxonomy:
-    category:
-        - docs
+    category: docs
+    tag: ''
 ---
 
 ### Chapter Number
