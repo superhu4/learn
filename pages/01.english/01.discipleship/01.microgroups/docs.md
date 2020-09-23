@@ -9,6 +9,7 @@ taxonomy:
 ## Outline
 
 ## Resources
+*Although from another church (with their own terminology), the following are still helpfuL:**
 - [1-page Group Overview](dgroupoverview.pdf)
 - [Group Starter Guide](D-GroupStarterGuide_2020-1-A.pdf); *Direct links to podcast episodes mentioned:*
 	- [Week 1](https://replicate.org/d-group-starter-guide-week-1/)
