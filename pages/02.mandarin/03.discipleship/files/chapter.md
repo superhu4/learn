@@ -4,6 +4,7 @@ media_order: 'Crazy Busy.533389.StudyGuide.WithCover.pdf,preaching christ from t
 taxonomy:
     category: docs
     tag: ''
+visible: true
 ---
 
 - [Crazy Busy.533389.StudyGuide.WithCover.pdf](Crazy%20Busy.533389.StudyGuide.WithCover.pdf)
