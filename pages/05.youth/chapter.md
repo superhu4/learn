@@ -5,6 +5,6 @@ taxonomy:
 child_type: docs
 ---
 
-# English Ministry
+# Youth Group
 
 Making disciples who make disciples.
