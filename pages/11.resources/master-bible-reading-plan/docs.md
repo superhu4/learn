@@ -1,6 +1,5 @@
 ---
 title: 'Master Bible Reading Plan'
-published: true
 visible: true
 ---
 
