@@ -1,5 +1,5 @@
 ---
-title: 'Home '
+title: 'Home'
 ---
 
 Key links here.
