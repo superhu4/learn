@@ -1,6 +1,7 @@
 ---
 title: 'Master Bible Reading Plan'
 published: true
+visible: true
 ---
 
 # CCCI's Master Bible Reading Plan
