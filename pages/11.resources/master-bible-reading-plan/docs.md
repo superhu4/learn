@@ -1,5 +1,6 @@
 ---
 title: 'Master Bible Reading Plan'
+published: true
 ---
 
 # CCCI's Master Bible Reading Plan
