@@ -9,3 +9,6 @@ taxonomy:
 # Basics
 
 Discover the **basic** principles
+
+[presentation="presentations/"]
+
