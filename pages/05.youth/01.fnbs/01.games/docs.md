@@ -5,6 +5,7 @@ taxonomy:
 ---
 ## Guidelines
 - Include everyone.
+- Test edit.
 
 ## Resources
 - [Youth Group Games](https://youthgroupgames.com.au)
