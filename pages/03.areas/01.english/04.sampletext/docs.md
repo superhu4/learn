@@ -1,5 +1,5 @@
 ---
-title: Sample Text
+title: 'Sample Text'
 taxonomy:
     category: docs
 ---
