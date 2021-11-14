@@ -9,3 +9,5 @@ child_type: docs
 # Youth Group
 
 Making disciples who make disciples.
+
+[5-Perspectives-to-Evelate-the-Gospel.pdf](5-Perspectives-to-Evelate-the-Gospel.pdf)
